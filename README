@@ -1,0 +1,8 @@
+-- Author:        Sayak Sarkar             --
+-- Email Address: sayak.bugsmith@gmail.com --
+
+Description of Files in This Directory:-
+
+1. phpcodingtest.php: PHP File for generating Form for User Input.
+2. store_info.php: PHP File for storing user input into Database.
+3. README: Text File containing information about files in the directory.
