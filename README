@@ -5,4 +5,5 @@ Description of Files in This Directory:-
 
 1. phpcodingtest.php: PHP File for generating Form for User Input.
 2. store_info.php: PHP File for storing user input into Database.
-3. README: Text File containing information about files in the directory.
+3. testdb.sql: SQL File containing Database information which can be imported into any mysql installation to re-create the database.
+4. README: Text File containing information about files in the directory.
